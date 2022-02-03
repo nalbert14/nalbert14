@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+/* btns{
+
+} */
+h1{
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+#btn1{
+  display: flex;
+  background: white;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  margin:100px ;
+  width: 150px;
+  flex-direction: collum
+}
+
+#btn1:hover{
+  color:white;
+  background: rgb(90, 87, 87);
+}
